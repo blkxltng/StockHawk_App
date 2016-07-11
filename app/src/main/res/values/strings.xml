@@ -1,14 +1,15 @@
 <resources>
-  <string name="app_name" translatable="false">Stock Hawk</string>
+    <string name="app_name" translatable="false">Stock Hawk</string>
 
-  <string name="action_example">Example action</string>
+    <string name="action_example">Example action</string>
 
-  <string name="action_settings" translatable="true">Settings</string>
-  <string name="action_change_units" translatable="true">Change Units</string>
-  <string name="symbol_search" translatable="true">Symbol Search</string>
-  <string name="content_test" translatable="true">Search for a Stock Symbol</string>
-  <string name="input_hint">FB</string>
-  <string name="input_prefill"></string>
-  <string name="network_toast" translatable="true">Uh-oh! This app requires an internet connection</string>
-  <string name="saved_already" translatable="true">This stock is already saved!</string>
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="action_change_units" translatable="true">Change Units</string>
+    <string name="symbol_search" translatable="true">Symbol Search</string>
+    <string name="content_test" translatable="true">Search for a Stock Symbol</string>
+    <string name="input_hint">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast" translatable="true">Uh-oh! This app requires an internet connection</string>
+    <string name="saved_already" translatable="true">This stock is already saved!</string>
+    <string name="stock_details" translatable="true">Chart for stock price over time</string>
 </resources>
