@@ -38,7 +38,7 @@ class QuoteRemoteVF implements RemoteViewsService.RemoteViewsFactory {
 
     @Override
     public void onCreate() {
-
+        //nothing here
     }
 
     @Override
